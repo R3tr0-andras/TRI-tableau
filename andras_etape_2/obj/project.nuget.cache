@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KofBINlf8FJXZvVZozj/4zgGuDYrH/xeV/Oj9eixBt4/gj/F5jq8Cdw6ypEtfLs9Jc5SLWZVA3xB5VRMZyqbvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andra\\OneDrive\\Bureau\\andras_etape_2\\andras_etape_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
